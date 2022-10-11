@@ -1,6 +1,6 @@
 package DSA.InJava;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 // KADANE'S ALGORITHM IS USED TO FIND THE MAX SUM ARRAY SUM.
 // USEFUL ONLY WHEN ARRAY HAS NEGATIVE VALUES ALSO.
