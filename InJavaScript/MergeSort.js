@@ -38,3 +38,5 @@ let arr = [5, 1, 2, 7, 3, 5];
 
 MSdivide(arr, 0, arr.length - 1);
 console.log(arr);
+
+// TC => O(NlogN)  SC => O(N)
